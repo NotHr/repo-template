@@ -1,10 +1,10 @@
 # Project Name
 
-Project Description
+Project Description - Here goes the project description.
 
 ## Live Version
 
-This page is not yet deployed.
+This page is not yet deployed. - If any live page.
 
 <!--This page is currently deployed. [View the live website.]()-->
 
