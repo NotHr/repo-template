@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7E35ZY)
+
 # Project Name
 
 Project Description - Here goes the project description.
